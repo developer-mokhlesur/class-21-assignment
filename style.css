@@ -1,0 +1,74 @@
+/*** Nessesary CSS Start From Here***/
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+img{
+    max-width: 100%;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.text-start{
+    text-align: left;
+}
+.text-center{
+    text-align: center;
+}
+.text-end{
+    text-align: right;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+} */
+/*** Nessesary CSS End Here***/
+/*** Header CSS Start From Here ***/
+
+/*** Header CSS End Here ***/
+/*** Slider CSS Start From Here ***/
+.carousel-item img{
+    /* height: 550px; */
+}
+.slider-cap p{
+    margin-bottom: 361px;
+}
+/*** Slider CSS End Here ***/
+/*** Content CSS Start From Here ***/
+.con span {
+    font-size: 17px;
+}
+.con p{
+    font-size: 17px;
+}
+/*** Content CSS End Here ***/
+/*** Table CSS Start From Here ***/
+table tr td:first-child{
+    font-weight: bold;
+}
+.table{
+    background: #f8f9fa;
+}
+/*** Table CSS End Here ***/
+.card-2{
+    background: #f8f9fa;
+}
+.foot p{
+    margin: 0;
+}
