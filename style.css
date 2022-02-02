@@ -40,7 +40,9 @@ a{
 } */
 /*** Nessesary CSS End Here***/
 /*** Header CSS Start From Here ***/
-
+.navbar{
+    z-index: 9;
+}
 /*** Header CSS End Here ***/
 /*** Slider CSS Start From Here ***/
 .carousel-item img{
